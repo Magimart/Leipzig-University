@@ -1,0 +1,24 @@
+{
+  "name": "primier",
+  "version": "1.0.0",
+  "description": "WBS project one",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magimart/wbs-primeir.git"
+  },
+  "author": "Magima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magimart/wbs-primeir/issues"
+  },
+  "homepage": "https://github.com/Magimart/wbs-primeir#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20"
+  }
+}
